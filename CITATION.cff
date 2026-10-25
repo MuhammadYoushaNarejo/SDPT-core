@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+    - family-names: "Narejo"
+    given-names: "Muhammad Yousha"
+title: "SDPT-core: Official Python Reference Engine for Al-Qanun fil-Manzar wal-Nazar (SDPT Model v5.1)"
+version: 5.1
+date-released: 2026-10-25
+url: "https://github.com/MuhammadYoushaNarejo/SDPT-core"
+license: MIT
