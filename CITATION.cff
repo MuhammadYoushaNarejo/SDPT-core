@@ -4,7 +4,7 @@ message: "If you use this software, please cite it as below."
 type: software
 authors:
     - family-names: "Narejo"
-    given-names: "Muhammad Yousha"
+      given-names: "Muhammad Yousha"
 version: 5.1
 date-released: '2026-10-25'
 repository-code: "https://github.com/MuhammadYoushaNarejo/SDPT-core"
